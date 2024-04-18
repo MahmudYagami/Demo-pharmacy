@@ -1,0 +1,35 @@
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\Pharmacy Demo.exe
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\Pharmacy Demo.deps.json
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\Pharmacy Demo.runtimeconfig.json
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\Pharmacy Demo.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\Pharmacy Demo.pdb
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.csproj.AssemblyReference.cache
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy_Demo.Form1.resources
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy_Demo.Properties.Resources.resources
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.csproj.GenerateResource.cache
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.AssemblyInfoInputs.cache
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.AssemblyInfo.cs
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.csproj.CoreCompileInputs.cache
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy.AB0FD0F9.Up2Date
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\refint\Pharmacy Demo.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.pdb
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy Demo.genruntimeconfig.cache
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\ref\Pharmacy Demo.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy_Demo.registerForm.resources
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy_Demo.MainForm.resources
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy_Demo.adminDash.resources
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy_Demo.adminaddUsers.resources
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy_Demo.adminAddcategory.resources
+C:\Users\nulln\Desktop\Demo\Pharmacy Demo\Pharmacy Demo\obj\Debug\net8.0-windows\Pharmacy_Demo.adminAddProduct.resources
